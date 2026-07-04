@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/harshita2481/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/harshita2481/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
