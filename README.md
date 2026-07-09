@@ -36,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/harshita2481/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/harshita2481/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
