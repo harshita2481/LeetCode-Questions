@@ -1,40 +1,22 @@
 class MyStack:
 
     def __init__(self):
-        self.q1=[]
-        self.q2=[]
-        self.i=0
-
+        self.q=[]
+        
     def push(self, x: int) -> None:
-        if self.q1==[]:
-            self.q1.append(x)
-            for i in self.q2:
-                self.q1.append(i)
-            self.q2=[]
-        else:
-            self.q2.append(x)
-            for i in self.q1:
-                self.q2.append(i)
-            self.q1=[]
+        self.q.append(x)
+        for k in range(len(self.q)-1):
+            self.q.append(self.q.pop(0))
 
     def pop(self) -> int:
-        if self.q1==[]:
-            val=self.q2.pop(0)
-        else:
-            val=self.q1.pop(0)
+        val=self.q.pop(0)
         return val
 
     def top(self) -> int:
-        if not self.q1:
-            return self.q2[0]
-        else:
-            return self.q1[0]        
+        return self.q[0]
 
     def empty(self) -> bool:
-        if not self.q1 and not self.q2:
-            return True
-        return False
-        
+        return self.q==[]
 
 
 # Your MyStack object will be instantiated and called as such:
