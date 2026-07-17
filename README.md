@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshita2481/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 ## Backtracking
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/harshita2481/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshita2481/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
