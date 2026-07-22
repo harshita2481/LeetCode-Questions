@@ -1,16 +1,19 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        nge=[]
-        for i in range(len(nums1)):
-            for j in range(len(nums2)):
-                if nums1[i]==nums2[j]:
-                    k=j
-                    while k<len(nums2):
-                        if nums2[k]>nums1[i]:
-                            nge.append(nums2[k])
-                            break
-                        k+=1
-                    if k==len(nums2):
-                        nge.append(-1)
-                    break
-        return nge
+        result=dict()
+        stack=[]
+        ans=[]
+        for i in range(len(nums2)-1,-1,-1):
+            if not stack:
+                result[nums2[i]]=-1
+            else:
+                while stack and nums2[i]>stack[-1]:
+                    stack.pop()
+                if stack:
+                    result[nums2[i]]=stack[-1]
+                else:
+                    result[nums2[i]]=-1
+            stack.append(nums2[i])
+        for j in nums1:
+            ans.append(result[j])
+        return ans
