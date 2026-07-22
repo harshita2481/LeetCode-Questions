@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harshita2481/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/harshita2481/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
+| [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/harshita2481/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/harshita2481/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harshita2481/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshita2481/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshita2481/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshita2481/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
