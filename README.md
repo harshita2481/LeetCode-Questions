@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshita2481/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/harshita2481/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/harshita2481/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
