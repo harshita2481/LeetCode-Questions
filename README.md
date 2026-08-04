@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/harshita2481/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshita2481/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshita2481/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/harshita2481/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshita2481/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshita2481/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
