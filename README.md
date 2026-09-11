@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita2481/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshita2481/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshita2481/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshita2481/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshita2481/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshita2481/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -166,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita2481/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshita2481/LeetCode-Questions/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
