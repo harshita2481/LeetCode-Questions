@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harshita2481/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshita2481/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/harshita2481/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harshita2481/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshita2481/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/harshita2481/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshita2481/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshita2481/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
