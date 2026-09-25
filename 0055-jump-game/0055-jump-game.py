@@ -6,6 +6,4 @@ class Solution:
                 return False
             if i+nums[i]>maxi:
                 maxi=i+nums[i]
-            if maxi>=len(nums)-1:
-                return True
-        return False
+        return True
