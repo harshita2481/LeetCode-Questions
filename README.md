@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/harshita2481/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshita2481/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshita2481/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshita2481/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/harshita2481/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshita2481/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harshita2481/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/harshita2481/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshita2481/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harshita2481/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshita2481/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
