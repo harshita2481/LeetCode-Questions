@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshita2481/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/harshita2481/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/harshita2481/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshita2481/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita2481/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshita2481/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshita2481/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/harshita2481/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
