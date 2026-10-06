@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/harshita2481/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0856-score-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshita2481/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshita2481/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/harshita2481/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshita2481/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshita2481/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshita2481/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshita2481/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/harshita2481/LeetCode-Questions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshita2481/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshita2481/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshita2481/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshita2481/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
