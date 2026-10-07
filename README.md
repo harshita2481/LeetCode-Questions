@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshita2481/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/harshita2481/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0856-score-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshita2481/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harshita2481/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/harshita2481/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshita2481/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
