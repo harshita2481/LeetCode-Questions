@@ -8,7 +8,7 @@ class Solution:
         while r<len(fruits):
             d[fruits[r]]=d.get(fruits[r],0)+1
             fru+=1
-            while len(d)>2:
+            if len(d)>2:
                 d[fruits[l]]-=1
                 fru-=1
                 if d[fruits[l]]==0:
