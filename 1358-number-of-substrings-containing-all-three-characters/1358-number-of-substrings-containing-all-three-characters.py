@@ -1,16 +1,19 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        l=0
-        r=0
-        maxi=0
-        d=dict()
-        while r<len(s):
-            d[s[r]]=d.get(s[r],0)+1
-            while len(d)==3:
-                maxi+=len(s)-r
-                d[s[l]]-=1
-                if d[s[l]]==0:
-                    del d[s[l]]
-                l+=1
-            r+=1
-        return maxi       
+        last=[-1,-1,-1]
+        count=0
+        for i in range(len(s)):
+            if s[i]=="a":
+                last[0]=i
+            elif s[i]=="b":
+                last[1]=i
+            else:
+                last[2]=i
+            if last[0]!=-1 and last[1]!=-1 and last[2]!=-1:
+                left=min(last)
+                right=max(last)
+                count+=left+1
+        return count
+
+
+        
