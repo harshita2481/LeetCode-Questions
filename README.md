@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/harshita2481/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshita2481/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/harshita2481/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/harshita2481/LeetCode-Questions/tree/master/0402-remove-k-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshita2481/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/harshita2481/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/harshita2481/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/harshita2481/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshita2481/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshita2481/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshita2481/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/harshita2481/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshita2481/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/harshita2481/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
