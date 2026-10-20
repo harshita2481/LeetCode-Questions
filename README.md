@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/harshita2481/LeetCode-Questions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshita2481/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harshita2481/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/harshita2481/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshita2481/LeetCode-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshita2481/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshita2481/LeetCode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshita2481/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/harshita2481/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshita2481/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshita2481/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshita2481/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshita2481/LeetCode-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshita2481/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,9 +350,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshita2481/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshita2481/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita2481/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
